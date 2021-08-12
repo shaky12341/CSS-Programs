@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Syntax</title>
+	<style>
+		/* Add selector along with the CSS property*/
+        h1{
+            background-color:pink;
+        }
+	</style>
+</head>
+<body>
+	<h1>Welcome to Studytonight</h1>
+	<p>Welcome to Studytonight</p>
+</body>
+</html>
