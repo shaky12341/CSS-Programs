@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- style goes here -->
+    <style>
+        h1{
+            background-color:yellow;
+        }
+    </style>
+</head>
+<body>
+	<h1>Studytonight</h1>
+</body>
+</html>
