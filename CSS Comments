@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Comment</title>
+	<style>
+		div{
+			/*background-color: pink;*/
+		}
+	</style>
+</head>
+<body>
+	<div>Welcome to Studytonight</div>
+</body>
+</html>
