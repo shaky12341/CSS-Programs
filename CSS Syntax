@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Syntax</title>
+	<style>
+	/* Add CSS Property here */
+	p{
+		color:blue;
+	}
+	</style>
+</head>
+<body>
+	<p>Welcome to Studytonight</p>
+</body>
+</html>
