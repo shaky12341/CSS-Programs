@@ -1,0 +1,19 @@
+INDEX.HTML
+
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- add link to external CSS -->
+    <link href="style.css"/>
+</head>
+<body>
+	<h1>Studytonight</h1>
+</body>
+</html>
+
+
+STYLE.CSS
+
+h1{
+    background-color:yellow
+}
