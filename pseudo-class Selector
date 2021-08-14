@@ -3,10 +3,13 @@
 <head>
 	<title>CSS Selectors</title>
 	<style>
-		a:hover{
-			background-color:yellow;
+		a{
 			font-weight: bold;
 			text-decoration: none;
+		}
+		a:hover
+		{
+			background-color:yellow;
 		}
 	</style>
 </head>
