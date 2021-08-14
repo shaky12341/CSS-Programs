@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Selectors</title>
+	<style>
+		/* Add h1 selector here*/
+		h1{
+			color:orange;
+		}
+	</style>
+</head>
+<body>
+		<h1>Studytonight</h1>
+</body>
+</html>
