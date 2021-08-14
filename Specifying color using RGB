@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS</title>
+	<style>
+		h3{
+			/* Add CSS property here*/
+			color:rgb(17,105,142);
+		}
+		h2{
+			/* Add CSS property here*/
+			color:rgb(239,79,79);
+		}
+		h1{
+			/* Add CSS property here*/
+			color:rgb(22,199,154);
+		}
+	</style>
+</head>
+<body>
+	<h3>Studytonight</h3>
+	<h2>Studytonight</h2>
+	<h1>Studytonight</h1>
+</body>
+</html>
