@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Colors</title>
+	<style> 
+		#h1{
+			color: pink;
+		}
+		#h2{
+			border: 2px solid purple;
+		}
+		#h3{
+			color: white;
+			background-color: orange;
+		}
+	</style>
+</head>
+<body>
+	<h1 id="h1">Studytonight</h1>
+	<h1 id="h2">Studytonight</h1>
+	<h1 id="h3">Studytonight</h1>
+</body>
+</html>
