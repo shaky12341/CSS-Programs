@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Selectors</title>
+	<style>
+		a:hover{
+			background-color:yellow;
+			font-weight: bold;
+			text-decoration: none;
+		}
+	</style>
+</head>
+<body>
+	<h1><a href="#">Studytonight</a><h1>
+</body>
+</html>
