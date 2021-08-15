@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Selectors</title>
+	<style>
+		h1{
+			border: 5px double red;
+		}
+	</style>
+</head>
+<body>
+	<h1>Studytonight</h1>
+</body>
+</html>
