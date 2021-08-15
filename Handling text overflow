@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS fonts</title>
+	<style>
+		h1{
+			/* Add CSS property text-overflow: clip; here*/
+			width: 140px; 
+			white-space: nowrap; 
+			color: purple;
+			border: 2px solid purple;
+			text-overflow:clip;
+		}
+		p{
+			/* Add CSS proeprty text-overflow: ellipsis; here*/
+			white-space: nowrap; 
+			width: 400px; 
+			color: blue;
+			border: 2px solid blue;
+			text-overflow:ellipsis;
+		}
+	</style>
+</head>
+<body>
+	<h1>Studytonight</h1>
+	<p>In a world where so much is being done for technology and so little for the environment, education is not even a part of most discussions.We at Studytonight believe that by widening the reach of education, by making it freely available, so much can be achieved.</p>
+</body>
+</html>
