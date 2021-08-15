@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Font Size</title>
+	<style>
+		p{
+			/* Add CSS property here*/
+			color: blue;
+			font-size:20px;
+		}
+	</style>
+</head>
+<body>
+	<p>We at Studytonight believe that by widening the reach of education, by making it freely available, so much can be achieved.</p>
+</body>
+</html>
