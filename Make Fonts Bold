@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Fonts Weight</title>
+	<style>
+		.bold{
+			/* Add CSS property here*/
+			font-weight:600;
+		}
+	</style>
+</head>
+<body>
+	<p class="bold">This is a paragraph with CSS font-weight property.</p>
+	<p>This is a normal paragraph.</p>
+</body>
+</html>
