@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Borders</title>
+	<style>
+		div{
+			/* Add CSS property border here*/
+			padding: 15px;
+			color: #7868e6;
+			font-size: 50px;
+			border: 4px dashed #4535aa;
+		}
+	</style>
+</head>
+<body>
+	<div>Welcome to Studytonight</div>
+</body>
+</html>
