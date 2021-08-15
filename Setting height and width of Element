@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Height and Width</title>
+	<style>
+		div{
+			/* Add CSS property height and width here */
+			border: 2px solid #b8b5ff;
+			padding: 15px;
+			color: #7868e6;
+			font-size: 50px;
+			height:100px;
+			width:40%;
+		}
+	</style>
+</head>
+<body>
+	<div>Welcome to Studytonight</div>
+</body>
+</html>
