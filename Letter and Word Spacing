@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Letter and Word Spacing</title>
+	<style>
+		h1{
+			/* Add CSS property here*/
+			letter-spacing:4px;
+		}
+		div{
+			/* Add CSS property here*/
+			word-spacing:10px;
+		} 
+	</style>
+</head>
+<body>
+	<h1>Studytonight</h1>
+	<div>We at Studytonight believe that by widening the reach of education, by making it freely available, so much can be achieved.</div>
+</body>
+</html>
