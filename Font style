@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	 <title>CSS Font style</title>
+	<style>
+		p{
+			/* Add CSS property here*/
+			font-style:italic;
+		}
+	</style>
+</head>
+<body>
+	<p>We at Studytonight believe that by widening the reach of education, by making it freely available, so much can be achieved.</p>
+</body>
+</html>
