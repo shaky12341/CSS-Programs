@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Image height and width</title>
+	<style>
+		.myimg{
+			/* Add CSS property height here*/
+			height:250px;
+			/* Add CSS property width here*/
+			width:auto;
+		}
+	</style>
+</head>
+<body>
+	<img class="myimg" src="https://bit.ly/3oHY7c8" alt="sample image">
+</body>
+</html>
