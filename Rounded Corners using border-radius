@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Border Radius</title>
+	<style>
+		h1{
+			border: 3px solid red;
+			/* Add CSS property here*/
+			border-radius:10px;
+			padding: 20px;
+		}
+	</style>
+</head>
+<body>
+	<h1>Studytonight</h1>
+</body>
+</html>
