@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Images</title>
+	<style>
+		body
+		{
+			/* Use URL: https://bit.ly/3bRyErB */ 
+			background-image:url("https://bit.ly/3bRyErB");
+
+		}
+	</style>
+</head>
+<body>
+	<div></div>
+</body>
+</html>
