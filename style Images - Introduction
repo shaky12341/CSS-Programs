@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Images</title>
+	<style>
+		img {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			border-radius: 20px;
+		}
+	</style>
+</head>
+<body>
+	<img src="st.jpg" alt="image">
+</body>
+</html>
