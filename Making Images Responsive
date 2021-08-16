@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Responsive Image</title>
+	<style>
+		.myimg
+		{
+			height:auto;
+			width:100%;
+		}
+	</style>
+</head>
+<body>
+	<img class="myimg" src = "https://bit.ly/3bRyErB" alt="studytonight">
+</body>
+</html>
