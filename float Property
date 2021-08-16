@@ -1,0 +1,15 @@
+!DOCTYPE html>
+<html>
+<head>
+	<title>CSS float</title>
+	<style>
+		.myimg{
+			/* Add CSS property float here*/
+			float:right;
+		}
+	</style>
+</head>
+<body>
+	<img class="myimg" src="https://bit.ly/3bRyErB" alt="studytonight">
+</body>
+</html>
