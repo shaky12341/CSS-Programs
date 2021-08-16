@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Border</title>
+	<style>
+		#myBorder
+		{
+			/* CSS comes here */
+			border: dashed 3px red;
+		}
+	</style>
+</head>
+<body>
+	<h1 id="myBorder">Studytonight</h1>
+</body>
+</html>
