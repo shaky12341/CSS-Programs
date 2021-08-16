@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Round corner Image/Circular Image</title>
+	<style>
+		img
+		{
+			/* Add CSS proeprty border-radius here*/
+			border-radius:200px;
+		}
+	</style>
+</head>
+<body>
+	<img src="https://bit.ly/3bRyErB" alt="studytonight">
+</body>
+</html>
